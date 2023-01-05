@@ -1,0 +1,33 @@
+@font-face {
+    font-family: JetBrains;
+    src: url(JetBrains.ttf)
+}
+
+* {
+    font-family: JetBrains;
+    margin: 0px;
+    padding: 0px;
+}
+
+#particles-js {
+    background-color: #2d1719;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.matrixgreen {
+    color: #35e81d;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.green {
+    /* text-decoration: underline; */
+    color: green;
+}
+
+
+
