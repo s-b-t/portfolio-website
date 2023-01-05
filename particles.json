@@ -1,10 +1,10 @@
 {
     "particles": {
         "number": {
-            "value": 1100,
+            "value": 1800,
             "density": {
                 "enable": true,
-                "value_area": 2000
+                "value_area": 1800
             }
         },
         "color": {
@@ -18,7 +18,7 @@
                 "height": 20
             },
             "stroke": {
-                "width": 1,
+                "width": 0,
                 "color": "#35e81d"
             },
             "polygon": {
@@ -54,12 +54,12 @@
         },
         "move": {
             "enable": true,
-            "speed": 2.5,
+            "speed": 1.25,
             "direction": "bottom",
             "random": true,
             "straight": true,
             "out_mode": "bounce",
-            "bounce": false,
+            "bounce": true,
             "attract": {
                 "enable": true,
                 "rotateX": 600,
