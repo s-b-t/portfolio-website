@@ -48,7 +48,7 @@
         "line_linked": {
             "enable": true,
             "distance": 90,
-            "color": "#12f039",
+            "color": "#00FF00",
             "opacity": 0.4,
             "width": 0
         },
@@ -75,20 +75,20 @@
                 "mode": "repulse"
             },
             "onclick": {
-                "enable": true,
+                "enable": false,
                 "mode": "repulse"
             },
             "resize": true
         },
         "modes": {
             "grab": {
-                "distance": 400,
+                "distance": 80,
                 "line_linked": {
                     "opacity": 1
                 }
             },
             "bubble": {
-                "distance": 400,
+                "distance": 80,
                 "size": 40,
                 "duration": 2,
                 "opacity": 8,
